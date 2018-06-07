@@ -14,7 +14,7 @@
     ],
     "require": {
         "silex/web-profiler": "~2.0",
-        "symfony/finder": "~2.3"
+        "symfony/finder": "~3.2"
     },
     "autoload": {
         "psr-0": {
