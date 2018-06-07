@@ -1,5 +1,5 @@
 {
-    "name": "oziks/xhprof-service-provider",
+    "name": "pomyk/xhprof-service-provider",
     "type": "library",
     "description": "XHProf service provider for Silex.",
     "keywords": ["silex", "debug", "toolbar", "xhprof"],
