@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "silex/web-profiler": "~1.0@dev",
+        "silex/web-profiler": "~2.0",
         "symfony/finder": "~2.3"
     },
     "autoload": {
